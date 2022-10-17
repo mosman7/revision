@@ -39,3 +39,40 @@ print("Mohamed" in name) = True # returns true if value is in list
 Dict
 name["name"] = "Sparta" #adds a new key to a dict
 ```
+```python
+print 3rd item from a list
+name = ["mohamed", "osman", "Abdi"]
+print(name[2])
+```
+
+```python
+classes
+class dog:
+    def bark(selfs): # define method
+        print("woof")
+roger = dog()
+print(type)
+
+super().__init__()
+
+create a object of a class
+Create an object named p1, and print the value of x:
+p1 = MyClass()
+print(p1.x)
+
+Create a class named Person, use the __init__() function to assign values for name and age:
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+p1 = Person("John", 36)
+
+print(p1.name)
+print(p1.age)
+```
+```python
+
+```
+
+put variables into a value and print it
