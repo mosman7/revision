@@ -72,7 +72,13 @@ print(p1.name)
 print(p1.age)
 ```
 ```python
-
+shopping list
+def shopping_list():
+    items= {"eggs": 1.85,
+            "bread": 1.50,
+            "peppers": 0.90}
+    return items.values()
+print(sum(shopping_list()))
 ```
 
 put variables into a value and print it
